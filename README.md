@@ -1,5 +1,8 @@
 # Easy Micro Dance
 
+Let there be light.
+					- 271th Order
+
 Targets 
 - global
 - an advertisement system.
