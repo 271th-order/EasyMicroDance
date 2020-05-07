@@ -1,5 +1,5 @@
-# 易微条 (Easy Micro Dance)
--------------------------------------------------
+# Easy Micro Dance
+
 Targets 
 - global
 - an advertisement system.
@@ -10,7 +10,7 @@ Targets
 - The highest convert rate.
 - non-monetary transaction.
 - open source system, easy to deploy, devided but also united.
-------------------------------------------------------
+
 Technical
 - blockchain
 - distrubution system
